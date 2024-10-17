@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Anibal</h1>
 <h3 align="center">A semi-developer fullstack from Brazil</h3>
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🤓 HTML5 and CSS3 
+- 🤓 Python and little bit SQL
 
 - 📫 How to reach me **mathanb8313@gmail.com or @mathanb on instagram**
 
